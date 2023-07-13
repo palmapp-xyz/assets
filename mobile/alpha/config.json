@@ -1,3 +1,8 @@
 {
-  "waitlist": false
+  "mainnet": {
+    "waitlist": false
+  },
+  "testnet": {
+    "waitlist": false
+  }
 }
