@@ -1,0 +1,14 @@
+{
+  "mainnet": {
+    "waitlist": {
+      "ios": false,
+      "android": true
+    }
+  },
+  "testnet": {
+    "waitlist": {
+      "ios": false,
+      "android": false
+    }
+  }
+}
