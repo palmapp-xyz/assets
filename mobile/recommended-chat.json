@@ -1,0 +1,16 @@
+{
+  "mainnet": [
+    "sendbird_group_channel_9263_c64d23c41510e7371f92abe7adfe982df7e61752",
+    "sendbird_group_channel_9263_8f5708f897ec612db3c9352ea10827f8619793b3",
+    "sendbird_group_channel_9263_46c0b67d645c671edc29e7a99543b99562064831",
+    "sendbird_group_channel_9263_1b9ff7d2607b1304d855904aca65d0b883a8ba49",
+    "sendbird_group_channel_9263_850d7736d8680c21a39f31906b61a11fc29b746f"
+  ],
+  "testnet": [
+    "sendbird_group_channel_119338643_181e92ab5992ca832b368893203a1dff73968c4f",
+    "sendbird_group_channel_119338643_e07e2f3e72b572909011cb72cc23401235e22341",
+    "sendbird_group_channel_119338643_0a840c22ba6da8cf13801960af016234cdc498b7",
+    "sendbird_group_channel_119338643_f6e291fb37d9af546600882968583efd92453a95",
+    "sendbird_group_channel_119869670_41d6c8056af63206fa93efcfae561069f6de965a"
+  ]
+}
